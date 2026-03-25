@@ -33,14 +33,14 @@ Workout reminders
 Hydration alerts
 Goal tracking notifications
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
-## Frontend
+# Frontend
   Flutter
   Provider (State Management)
   fl_chart
 
-## Backend (Firebase)
+# Backend (Firebase)
   Firebase Authentication
   Cloud Firestore
   Firebase Storage
